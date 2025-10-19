@@ -44,7 +44,6 @@ O site se adapta a diferentes tamanhos de tela, garantindo uma boa experiência 
 ## 🚀 Visualização online
 
 🔗 [Clique aqui para acessar o site](https://helensjferreira-dev.github.io/portfolio-kevin/)  
-*(Substitua pelo seu link real após publicar)*
 
 ---
 
@@ -106,8 +105,6 @@ The site adapts to various screen sizes, ensuring a smooth experience on phones,
 ## 🚀 Live Preview
 
 🔗 [Click here to view the site](https://your-username.github.io/portfolio-kevin/)  
-*(Replace with your actual GitHub Pages link after publishing)*
-
 
 ---
 
