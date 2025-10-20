@@ -147,3 +147,13 @@
         menu.classList.toggle("active");
       });
 
+// Recolhe o menu ao clicar em um link
+const links = document.querySelectorAll("nav ul li a");
+
+links.forEach(link => {
+  link.addEventListener("click", () => {
+    menu.classList.remove("active");
+  });
+});
+
+
