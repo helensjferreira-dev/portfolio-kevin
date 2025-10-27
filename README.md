@@ -1,60 +1,48 @@
 # portfolio-kevin
-Projeto de site estático criado com foco em boas práticas de front-end. Utiliza HTML semântico, CSS modular e JavaScript para animações, galeria dinâmica e validação de formulário.
+Projeto de site estático criado com foco em boas práticas de front-end. Utiliza HTML semântico, CSS modular e JavaScript para animações, galeria dinâmica e validação de formulário. O layout é responsivo e otimizado para diferentes tamanhos de tela. Inclui recursos de acessibilidade por teclado, navegação intuitiva e compatibilidade com leitores de tela. O SEO foi configurado com Open Graph e Twitter Cards para melhor compartilhamento em redes sociais. Ideal para portfólios criativos e apresentações profissionais.
 
-Static website project created with a focus on front-end best practices. Built using semantic HTML, modular CSS, and JavaScript for animations, dynamic gallery, and form validation.
+Static website project built with a focus on front-end best practices. It uses semantic HTML, modular CSS, and JavaScript for animations, dynamic gallery, and form validation. The layout is responsive and optimized for various screen sizes. Includes keyboard accessibility features, intuitive navigation, and compatibility with screen readers. SEO is configured using Open Graph and Twitter Cards for enhanced sharing on social media. Ideal for creative portfolios and professional presentations.
 
-# 📘 README em Português
+📘 README em Português
+💼 Portfólio Kevin Jorge
 
-# 💼 Portfólio Kevin Jorge
+Este é o site de portfólio pessoal de Kevin Jorge, desenvolvido com foco em boas práticas de front-end. Apresenta seus serviços, projetos, galeria interativa e formulário de contato com feedback visual. O design é limpo, responsivo e acessível, proporcionando uma navegação fluida em diferentes dispositivos.
 
-![Status](https://img.shields.io/badge/status-online-brightgreen)
-![Responsivo](https://img.shields.io/badge/design-responsivo-blue)
-![Feito com HTML/CSS/JS](https://img.shields.io/badge/feito%20com-HTML%2C%20CSS%2C%20JS-orange)
+🛠️ Tecnologias utilizadas
+HTML5 com estrutura semântica
 
-Este é o site de portfólio pessoal de **Kevin Jorge**, desenvolvido com foco em design limpo, interatividade e responsividade. O projeto apresenta seus serviços, projetos, galeria dinâmica e formulário de contato com feedback visual.
+CSS3 modular e responsivo
 
----
+JavaScript para interatividade (galeria, modal, validação de formulário)
 
-## 🛠️ Tecnologias utilizadas
+Animações com @keyframes
 
-- `HTML5` semântico
-- `CSS3` com layout flexível e responsivo
-- `JavaScript` para interatividade (galeria, modal, validação)
-- Animações com `@keyframes`
-- Compatível com dispositivos móveis
+SEO com Open Graph e Twitter Cards
 
----
+Acessibilidade por teclado e compatibilidade com leitores de tela
 
-## ✨ Funcionalidades
+✨ Funcionalidades
+✅ Apresentação pessoal com animação
 
-- ✅ Apresentação pessoal com animação
-- 🖼️ Galeria de projetos com rolagem infinita e visualização em tela cheia
-- 📩 Formulário de contato com validação e modal de sucesso
-- 📱 Menu adaptado para mobile
-- 📆 Rodapé dinâmico com ano atual
+🖼️ Galeria de projetos com rolagem infinita e visualização em tela cheia com descrição
 
----
+📩 Formulário de contato com validação e modal de sucesso
 
-## 📱 Responsividade
+♿ Navegação acessível por teclado e foco gerenciado
 
+📱 Menu adaptado para dispositivos móveis
+
+📆 Rodapé dinâmico com o ano atual
+
+📱 Responsividade
 O site se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em celulares, tablets e desktops.
 
----
+🚀 Visualização online
+🔗 [Clique aqui para acessar o site](https://helensjferreira-dev.github.io/portfolio-kevin/)
 
-## 🚀 Visualização online
-
-🔗 [Clique aqui para acessar o site](https://helensjferreira-dev.github.io/portfolio-kevin/)  
-
----
-
-
----
-
-## 👤 Autor
-
-**Helen Ferreira**  
-Desenvolvedora   
-📸 [Instagram](https://instagram.com/peritahelen) • 💬 [WhatsApp](https://wa.me/5548988183720)
+👤 Autora
+Hélen Ferreira Desenvolvedora 
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)) • 💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
@@ -64,55 +52,47 @@ Desenvolvedora
 
 ---
 
-# 📗 README in English
+📗 README in English
+💼 Kevin Jorge Portfolio
 
-# 💼 Kevin Jorge Portfolio
+This is the personal portfolio website of Kevin Jorge, designed to showcase his creative services, featured projects, and contact options. Built with clean design principles, semantic structure, and interactive features, the site offers a smooth and accessible user experience across devices.
 
-![Status](https://img.shields.io/badge/status-online-brightgreen)
-![Responsive](https://img.shields.io/badge/design-responsive-blue)
-![Built with HTML/CSS/JS](https://img.shields.io/badge/built%20with-HTML%2C%20CSS%2C%20JS-orange)
+🛠️ Technologies Used
+HTML5 with semantic markup
 
-This is the personal portfolio website of **Kevin Jorge**, designed to showcase his services, projects, and contact options. Built with clean design principles, interactive features, and responsive layout.
+CSS3 with modular, responsive layout
 
----
+JavaScript for interactivity (gallery, modal, form validation)
 
-## 🛠️ Technologies Used
+Animations using @keyframes
 
-- `HTML5` semantic structure
-- `CSS3` with flexible and responsive layout
-- `JavaScript` for interactivity (gallery, modal, form validation)
-- Animations using `@keyframes`
-- Mobile-friendly design
+SEO with Open Graph and Twitter Cards
 
----
+Accessibility features (keyboard navigation, ARIA attributes)
 
-## ✨ Features
+✨ Features
+✅ Animated personal introduction
 
-- ✅ Animated personal introduction
-- 🖼️ Project gallery with infinite scroll and fullscreen preview
-- 📩 Contact form with validation and custom success modal
-- 📱 Mobile-friendly navigation menu
-- 📆 Dynamic footer with current year
+🖼️ Project gallery with infinite scroll and fullscreen preview with descriptions
 
----
+📩 Contact form with validation and success modal
 
-## 📱 Responsiveness
+♿ Keyboard-accessible modal and navigation
 
-The site adapts to various screen sizes, ensuring a smooth experience on phones, tablets, and desktops.
+📱 Mobile-friendly responsive menu
 
----
+📆 Dynamic footer with current year
 
-## 🚀 Live Preview
+📱 Responsiveness
+The layout adapts seamlessly to different screen sizes, ensuring a consistent experience on mobile, tablet, and desktop devices.
 
-🔗 [Click here to view the site](https://your-username.github.io/portfolio-kevin/)  
+🚀 Live Preview
+🔗 [Click here to view the site](https://helensjferreira-dev.github.io/portfolio-kevin/)
 
----
-
-## 👤 Author
-
-**Hélen Ferreira**  
-Developer  
-📸 [Instagram](https://instagram.com/peritahelen) • 💬 [WhatsApp](https://wa.me/5548988183720)
+👤 Author
+Hélen Ferreira 
+Developer
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)) • 💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
