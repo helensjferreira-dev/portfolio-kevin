@@ -105,13 +105,14 @@ textarea {
 
 /* Portfólio */
 #portfolio .projeto {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   text-align: center;
 }
 
 #portfolio img {
   width: 100%;
-  max-width: 400px;
+  margin-bottom: 10px;
+  max-width: 300px;
   border-radius: 8px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
@@ -142,17 +143,17 @@ textarea {
 /* Seção de contato */
 #contato {
   background-color: #fff;
-  padding: 40px 20px;
+  padding: 20px 15px;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  max-width: 600px;
+  max-width: 500px;
   margin: 40px auto;
 }
 
 /* Título da seção */
 #contato h2 {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   font-size: 1.8em;
   color: #222;
 }
@@ -161,17 +162,20 @@ textarea {
 #contato form {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
 }
 
 /* Campos de entrada */
 #contato input,
 #contato textarea {
-  padding: 12px;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 6px;
-  font-size: 1em;
+  font-size: 0.95em;
   transition: border-color 0.3s ease;
+}
+#contato textarea {
+  min-height: 80px;
 }
 
 #contato input:focus,
@@ -219,6 +223,14 @@ input[type="submit"]:hover {
 section {
   scroll-margin-top: 60px;
 }
+
+#servicos,
+#sobre,
+#portfolio,
+#contato {
+  scroll-margin-top: 180px;
+}
+
 /* animação frase de apresentação */
 @keyframes fadeInUp {
   0% {
@@ -274,7 +286,7 @@ section {
 }
 
 .galeria img {
-  width: 250px !important;
+  width: 180px !important;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -311,8 +323,8 @@ section {
 }
 
 .item-galeria p {
-  margin-top: 10px;
-  font-size: 0.9em;
+  margin-top: 6px;
+  font-size: 0.85em;
   color: #555;
   max-width: 200px;
 }
