@@ -47,7 +47,7 @@ O site se adapta a diferentes tamanhos de tela, garantindo uma boa experiência 
 
 👤 Autora
 Hélen Ferreira Desenvolvedora 
-📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)) • 💬 [WhatsApp](https://wa.me/5548988183720)
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/) • 💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
@@ -103,7 +103,7 @@ The layout adapts seamlessly to different screen sizes, ensuring a consistent ex
 Hélen Ferreira 
 Developer
 
-📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)) • 💬 [WhatsApp](https://wa.me/5548988183720)
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/) • 💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
