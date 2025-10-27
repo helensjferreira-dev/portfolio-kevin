@@ -3,7 +3,7 @@ Projeto de site estático criado com foco em boas práticas de front-end. Utiliz
 
 Static website project built with a focus on front-end best practices. It uses semantic HTML, modular CSS, and JavaScript for animations, dynamic gallery, and form validation. The layout is responsive and optimized for various screen sizes. Includes keyboard accessibility features, intuitive navigation, and compatibility with screen readers. SEO is configured using Open Graph and Twitter Cards for enhanced sharing on social media. Ideal for creative portfolios and professional presentations.
 
-📘 README em Português
+📘 # README em Português
 
 💼 Portfólio Kevin Jorge
 
@@ -57,7 +57,7 @@ Hélen Ferreira Desenvolvedora
 
 ---
 
-📗 README in English
+📗 # README in English
 
 💼 Kevin Jorge Portfolio
 
