@@ -1,4 +1,4 @@
-🚀 Portfólio Profissional — Cliente Kevin Jorge
+# 🚀 Portfólio Profissional — Cliente Kevin Jorge
 
 [🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
@@ -76,6 +76,8 @@ Hélen Ferreira Desenvolvedora
 
 ---
 ## 🇺🇸 English
+
+# 🚀 Professional Portfolio — Client Kevin Jorge
 
 ## 📝 About the Project
 This is a custom-built static portfolio website developed for designer Kevin Jorge. The primary focus was creating a modern, high-performance, and fully responsive interface capable of translating the client's creative identity into the digital environment.
