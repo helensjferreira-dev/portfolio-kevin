@@ -1,53 +1,72 @@
-# portfolio-kevin
-Projeto de site estático criado com foco em boas práticas de front-end. Utiliza HTML semântico, CSS modular e JavaScript para animações, galeria dinâmica e validação de formulário. O layout é responsivo e otimizado para diferentes tamanhos de tela. Inclui recursos de acessibilidade por teclado, navegação intuitiva e compatibilidade com leitores de tela. O SEO foi configurado com Open Graph e Twitter Cards para melhor compartilhamento em redes sociais. Ideal para portfólios criativos e apresentações profissionais.
+🚀 Portfólio Profissional — Cliente Kevin Jorge
 
-Static website project built with a focus on front-end best practices. It uses semantic HTML, modular CSS, and JavaScript for animations, dynamic gallery, and form validation. The layout is responsive and optimized for various screen sizes. Includes keyboard accessibility features, intuitive navigation, and compatibility with screen readers. SEO is configured using Open Graph and Twitter Cards for enhanced sharing on social media. Ideal for creative portfolios and professional presentations.
+[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
-📘 README em Português
+## 🇧🇷 Português
 
-💼 Portfólio Kevin Jorge
-
-Este é o site de portfólio pessoal de Kevin Jorge, desenvolvido com foco em boas práticas de front-end. Apresenta seus serviços, projetos, galeria interativa e formulário de contato com feedback visual. O design é limpo, responsivo e acessível, proporcionando uma navegação fluida em diferentes dispositivos.
-
-🛠️ Tecnologias utilizadas
-
-HTML5 com estrutura semântica
-
-CSS3 modular e responsivo
-
-JavaScript para interatividade (galeria, modal, validação de formulário)
-
-Animações com @keyframes
-
-SEO com Open Graph e Twitter Cards
-
-Acessibilidade por teclado e compatibilidade com leitores de tela
-
-✨ Funcionalidades
-
-✅ Apresentação pessoal com animação
-
-🖼️ Galeria de projetos com rolagem infinita e visualização em tela cheia com descrição
-
-📩 Formulário de contato com validação e modal de sucesso
-
-♿ Navegação acessível por teclado e foco gerenciado
-
-📱 Menu adaptado para dispositivos móveis
-
-📆 Rodapé dinâmico com o ano atual
-
-📱 Responsividade
-
-O site se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em celulares, tablets e desktops.
-
-🚀 Visualização online
+## 🚀 Visualização online
 
 🔗 [Clique aqui para acessar o site](https://helensjferreira-dev.github.io/portfolio-kevin/)
 
-👤 Autora
-Hélen Ferreira Desenvolvedora 
-📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/) • 💬 [WhatsApp](https://wa.me/5548988183720)
+
+## 📝 Sobre o Projeto
+Este é um projeto de site estático desenvolvido sob medida para o designer Kevin Jorge. O foco principal foi a criação de uma interface moderna, rápida e totalmente responsiva, capaz de traduzir a identidade criativa do cliente para o ambiente digital.
+
+Como desenvolvedora, este projeto me permitiu aplicar boas práticas de Front-End, garantindo que a estética e a funcionalidade caminhem juntas em um produto final otimizado.
+
+## 👩‍💻 Diferenciais Técnicos e Soft Skills
+Diferente de um projeto estritamente acadêmico, este repositório demonstra habilidades essenciais para o mercado:
+
+- Levantamento de Requisitos: Interpretação das necessidades do cliente para criar uma galeria dinâmica e um formulário de contato funcional.
+
+- Acessibilidade (A11y): Implementação de navegação por teclado e compatibilidade com leitores de tela, garantindo que o portfólio seja inclusivo.
+
+- SEO & Social Share: Configuração de Open Graph e Twitter Cards para que, ao compartilhar o link em redes sociais, o site apresente um card visual atrativo, aumentando o engajamento do cliente.
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5 Semântico: Para melhor indexação em motores de busca e acessibilidade.
+
+- CSS3 Modular: Uso de Flexbox, Grid e @keyframes para animações suaves e layout adaptável.
+
+- JavaScript (Vanilla): Lógica para gerenciamento da galeria de projetos, modais de sucesso e validação de dados em tempo real.
+
+## ✨ Funcionalidades Principais
+
+- ✅ Intro Animada: Recepção visual impactante para os visitantes.
+
+- 🖼️ Galeria Interativa. 
+
+- Visualização de projetos em tela cheia com descrições detalhadas.
+
+- 📩 Formulário de Contato: Validação de campos e feedback visual instantâneo via modal de sucesso.
+
+- 📱 Menu Mobile: Navegação intuitiva adaptada para dispositivos móveis.
+
+- 📆 Rodapé Inteligente: Atualização automática do ano via script.
+
+## ⚙️ Como executar localmente
+
+1. Clone este repositório:
+
+    ```
+    git clone https://github.com/helensjferreira-dev/portfolio-kevin.git
+    ```
+
+2. Acesse a pasta do projeto:
+
+    ```
+    cd portfolio-kevin
+    ```
+
+3. Abra o arquivo index.html no seu navegador de preferência.
+
+
+## 👤 Autora
+
+Hélen Ferreira Desenvolvedora  
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)  
+💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
@@ -56,54 +75,65 @@ Hélen Ferreira Desenvolvedora
 
 
 ---
+## 🇺🇸 English
 
-📗 README in English
+## 📝 About the Project
+This is a custom-built static portfolio website developed for designer Kevin Jorge. The primary focus was creating a modern, high-performance, and fully responsive interface capable of translating the client's creative identity into the digital environment.
 
-💼 Kevin Jorge Portfolio
+As the developer, this project allowed me to implement front-end best practices, ensuring that aesthetics and functionality work together in an optimized final product.
 
-This is the personal portfolio website of Kevin Jorge, designed to showcase his creative services, featured projects, and contact options. Built with clean design principles, semantic structure, and interactive features, the site offers a smooth and accessible user experience across devices.
+## 👩‍💻 Technical Highlights & Soft Skills
 
-🛠️ Technologies Used
+Unlike a strictly academic project, this repository demonstrates essential market-ready skills:
 
-HTML5 with semantic markup
+Requirements Gathering: Interpreting client needs to create a dynamic gallery and a functional contact form.
 
-CSS3 with modular, responsive layout
+Accessibility (A11y): Implementation of keyboard navigation and screen reader compatibility, ensuring an inclusive portfolio.
 
-JavaScript for interactivity (gallery, modal, form validation)
+SEO & Social Share: Configuration of Open Graph and Twitter Cards so that sharing the link on social media presents an attractive visual card, increasing client engagement.
 
-Animations using @keyframes
+## 🛠️ Technologies Used
+- Semantic HTML5: For better search engine indexing and accessibility.
 
-SEO with Open Graph and Twitter Cards
+- Modular CSS3: Utilizing Flexbox, Grid, and @keyframes for smooth animations and an adaptable layout.
 
-Accessibility features (keyboard navigation, ARIA attributes)
+- Vanilla JavaScript: Logic for project gallery management, success modals, and real-time data validation.
 
-✨ Features
+## ✨ Key Features
 
-✅ Animated personal introduction
+- ✅ Animated Intro: An impactful visual welcome for visitors.
 
-🖼️ Project gallery with infinite scroll and fullscreen preview with descriptions
+- 🖼️ Interactive Gallery: Fullscreen project viewing with detailed descriptions.
 
-📩 Contact form with validation and success modal
+- 📩 Contact Form: Field validation and instant visual feedback via success modal.
 
-♿ Keyboard-accessible modal and navigation
+- 📱 Mobile Menu: Intuitive navigation adapted for mobile devices.
 
-📱 Mobile-friendly responsive menu
+- 📆 Smart Footer: Automatic year updates via script.
 
-📆 Dynamic footer with current year
+## ⚙️ How to run locally
 
-📱 Responsiveness
+1. Clone this repository:
 
-The layout adapts seamlessly to different screen sizes, ensuring a consistent experience on mobile, tablet, and desktop devices.
+    ```
+    cd portfolio
+    ```
 
-🚀 Live Preview
+2. Navigate to the project folder:
 
-🔗 [Click here to view the site](https://helensjferreira-dev.github.io/portfolio-kevin/)
+    ```
+    cd portfolio-kevin
+    ```
 
-👤 Author
-Hélen Ferreira 
-Developer
+3. Open the index.html file in your preferred browser.
 
-📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/) • 💬 [WhatsApp](https://wa.me/5548988183720)
+
+## 👤 Author
+Hélen Ferreira - Full-Stack Developer in career transition.
+
+📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)  
+
+💬 [WhatsApp](https://wa.me/5548988183720)
 
 ---
 
